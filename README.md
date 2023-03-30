@@ -5,7 +5,7 @@
 ## App Setup
 
 ```
-git clone https://github.com/John-Weeks-Dev/spotify-clone.git
+git clone https://github.com/Gcaus/vue3-pinia-tailwind.git
 
 npm i
 
