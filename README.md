@@ -1,4 +1,4 @@
-# Spotify Clone (spotify-clone)
+# Base Project
 
 ### Learn how to build this!
 
